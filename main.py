@@ -9,7 +9,7 @@ def main():
 
     sub1 = split_str[0]
     sub2 = split_str[1]
-    merged_str = sub1 + " " + sub2
+    merged_str = sub2 + " " + sub1
     print(sub2)
     print(sub1)
     print(merged_str)
